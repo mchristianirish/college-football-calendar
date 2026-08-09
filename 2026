@@ -1,8 +1,0 @@
-college-football-calendar/
-│
-├── generate_calendar.py
-├── Top25Football.ics       ← automatically created
-│
-└── .github/
-    └── workflows/
-        └── update-calendar.yml
